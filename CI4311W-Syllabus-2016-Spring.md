@@ -101,7 +101,7 @@ You will create a project on a technology topic that interests you and holds sev
 
 1. You can elect to author an essay with the following requirements:
   1. Length between 4-5 pages long and written **in APA format, double-spaced, 12-point font, with standard 1-inch margins**. For your convenience, I recommend using the [Word template](http://www.siue.edu/~prose/classes/APAFormatTemplate.doc) or the [Google Doc template](https://drive.google.com/previewtemplate?id=1cWBJYL0BbVocbSmFDMz2_440Wp3fIYLZs50QHbu2UiY&mode=public) as your starting point.
-  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]/_Project1/_[course number]_[section number].  For example, if I were submitting a paper, it might be ChenB_Project1_CI4311_001.  
+  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]\_Project1\_[course number]\_[section number].  For example, if I were submitting a paper, it might be ChenB_Project1_CI4311_001.  
   3. Inclusion of a reference/works cited page—but these do not count in your 4-5 pages.  In-text citations and a formal reference list in APA format are an important part of your paper and an ethical requirement. 
   4. Graphics are encouraged to better convey your understanding.   
 2. Develop a multimedia project that better demonstrates your thinking about the topic at hand and/or adds to the viewer’s experience of your topic. However, this is a writing course, so keep that in mind as you consider the requirements:
@@ -122,7 +122,7 @@ This second project is designed to provide you an opportunity to continue engagi
 
 1. You can elect to author an essay with the following requirements:
   1. Length between 4-5 pages long and written in **APA format, double-spaced, 12-point font, with standard 1-inch margins**.  
-  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]_**Project2**_[course number]_[section number].  For example, if I were submitting a paper, it might be ChenB_Project2_CI4311_001.  
+  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]\_**Project2**\_[course number]\_[section number].  For example, if I were submitting a paper, it might be ChenB_Project2_CI4311_001.  
   3. Inclusion of a reference/works cited page—but these do not count in your 4-5 pages.  In-text citations and a formal reference list in APA format are an important part of your paper and an ethical requirement. 
   4. Graphics are encouraged to better convey your understanding.   
 2.	Develop a multimedia project that better demonstrates your thinking about the topic at hand and/or adds to the viewer’s experience of your topic. However, this is a writing course, so keep that in mind as you consider the requirements:
@@ -140,20 +140,21 @@ This second project is designed to provide you an opportunity to continue engagi
 
 You will be required to write a summative literature review that draws in at least two course readings plus three additional outside readings that encompass one of the major issues we discuss in class regarding the ethical basis of concerns associated with the rapidly expanding roles technology continues to play in our lives.  Additional articles can be accessed on our course site under the “Further Readings” forum, or you can do a relevant literature search on your own.  This analysis and critique should encompass a substantive literature review conveying critical reflection on the issue(s) presented.  I am willing to consider a deeper, more thorough examination of a topic covered in either the pop culture review or the research report.
 
-Potential issues include: pervasiveness of technology, technological dependence, privacy, autonomy, security of data, democracy online, freedom of expression online, technological euphoria, digital citizenship, technology integration in education, cultural relativity, communicative freedom, digital plagiarism, intellectual property rights, globalization, etc.  Your paper should be **5-6 pages long (no longer)** and written **in APA format, double-spaced, 12-point Times New Roman font, with standard 1-inch margins)**.  Please include a title and reference/works cited page—but these do not count in your 5-6 pages.  In-text citations and a formal reference list in APA or MLA format are an important part of your papers. Alternate projects (i.e., videos) are not a possible medium here.  However, embedded graphics used to clarify an issue, or to reduce complexity in difficult-to-understand topics, are acceptable and encouraged.
+Potential issues include: pervasiveness of technology, technological dependence, privacy, autonomy, security of data, democracy online, freedom of expression online, technological euphoria, digital citizenship, technology integration in education, cultural relativity, communicative freedom, digital plagiarism, intellectual property rights, globalization, etc.  Your paper should be **5-6 pages long (no longer)** and written **in APA format, double-spaced, 12-point Times New Roman font, with standard 1-inch margins)**.  Please include a title and reference/works cited page—but these do not count in your 5-6 pages.  In-text citations and a formal reference list in APA format are an important part of your papers. Alternate projects (i.e., videos) are not a possible medium here.  However, embedded graphics used to clarify an issue, or to reduce complexity in difficult-to-understand topics, are acceptable and encouraged.
 
+---
 
 ## Performance Task Descriptions & *Tentative* Schedule
 
 Class details will be posted on our website as the course progresses.The following schedule is a general overview, but please note that individual readings, or the order of the selected readings, may change as new information becomes available or our class goes in different direction.
 
-The due time for each class is Monday at 6:00PM Central US time. For example, all activities and assignments for Class #1 is due by Monday, September 14.
+**The due time for each class is Monday at 6:00PM Central US time. For example, all activities and assignments for Class #1 is due by Monday, January 25, 6PM Central Time.**
 
 ### Class #1 – Due by Monday, January 25 - Introductions
 
 Reading:
 
-- **The syllabus**!
+- **The syllabus!**
 
 Assignments: 
 
@@ -175,9 +176,7 @@ Readings:
 
 Assignments: 
 
-- Search for examples of technology being used in productive, meaningful, or just plain cool ways today. 
-- Conversely, now search for relevant and current examples of what you might consider misuse or overuse of technology today.  
-- Drawing from the reading and your own thinking, create your definition of technology, and give us an example of something that both fits your definition and you find exciting.  Post your response in the discussion forum. Read and respond to posts by your peers.
+- Reading reflection
 
 ### Class #3 – Due by Monday, February 8 - Basic theoretical foundations of technology ethics
 
@@ -228,7 +227,7 @@ Readings:
 Assignments:
 
 - Reading reflection
-- **Peer reviews due**
+- **Initial Exploration project peer reviews due**
 
 ### Class #7 – Due by Monday, March 7 - The Difference between “Data” and “Actionable Information”
 
