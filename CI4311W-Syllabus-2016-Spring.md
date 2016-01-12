@@ -142,7 +142,7 @@ You will be required to write a summative literature review that draws in at lea
 
 Potential issues include: pervasiveness of technology, technological dependence, privacy, autonomy, security of data, democracy online, freedom of expression online, technological euphoria, digital citizenship, technology integration in education, cultural relativity, communicative freedom, digital plagiarism, intellectual property rights, globalization, etc.  Your paper should be **5-6 pages long (no longer)** and written **in APA format, double-spaced, 12-point Times New Roman font, with standard 1-inch margins)**.  Please include a title and reference/works cited page—but these do not count in your 5-6 pages.  In-text citations and a formal reference list in APA format are an important part of your papers. Alternate projects (i.e., videos) are not a possible medium here.  However, embedded graphics used to clarify an issue, or to reduce complexity in difficult-to-understand topics, are acceptable and encouraged.
 
----
+___
 
 ## Performance Task Descriptions & *Tentative* Schedule
 
@@ -240,7 +240,7 @@ Assignments:
 - Reading reflection
 - **Initial project due by Monday, March 7 by 6:00PM CST**
 
-_**SPRING BREAK: MARCH 14-18**_
+### SPRING BREAK: MARCH 14-18
 
 ### Class #8 – Due by Monday, March 21 - Democracy and the Internet
 
@@ -248,7 +248,7 @@ Readings:
 
 - “Democracy and the Internet” (Sunstein, 2008)
 - “Technological euphoria and contemporary citizenship” (Winner, 2005)
-- http://harvardmagazine.com/2009/03/the-internet-foe-democracy
+- "[The Internet: Foe of Democracy?](http://harvardmagazine.com/2009/03/the-internet-foe-democracy)" (Shaw, 2009)
 
 Assignments:
 
@@ -278,7 +278,7 @@ Readings:
 Assignments:
 
 - Reading reflection
-- **Draft of Continuing Exploration for peer reviews**
+- **Draft of Continuing Exploration due for peer reviews**
 
 ### Class #11  –  Due by Monday, April 11 - Cultural Relativity of Ethics & Technology
 
@@ -291,7 +291,7 @@ Readings:
 Assignments:
 
 - Reading reflection
-- Peer reviews completed for Continuing Exploration projects
+- **Continuing Exploration projects peer reviews due**
 
 ### Class #12 – Due by Monday, April 18 - Digital Equity
 
@@ -340,12 +340,12 @@ Assignments:
 
 **Definition of Grades**
 
-A - achievement that is outstanding relative to the level necessary to meet course requirements. YOU ARE CAPABLE OF THIS LEVEL OF WORK. Period.  
-B - achievement that is significantly above the level necessary to meet course requirements.  
-C - achievement that meets the course requirements in every respect.  
-D - achievement that is worthy of credit even though it fails to meet fully the course requirements.  
-S - achievement that is satisfactory, which is equivalent to a C- or better (achievement required for an S is at the discretion of the instructor but may be no lower than equivalent to a C-.)  
-F(or N) - Represents failure (or no credit) and signifies that the work was either (1) completed but at a level of achievement that is not worthy of credit or (2) was not completed and there was no agreement between the instructor and the student that the student would be awarded an I (see also I).
+- A - achievement that is outstanding relative to the level necessary to meet course requirements. YOU ARE CAPABLE OF THIS LEVEL OF WORK. Period.
+- B - achievement that is significantly above the level necessary to meet course requirements.
+- C - achievement that meets the course requirements in every respect.
+- D - achievement that is worthy of credit even though it fails to meet fully the course requirements.
+- S - achievement that is satisfactory, which is equivalent to a C- or better (achievement required for an S is at the discretion of the instructor but may be no lower than equivalent to a C-.)
+- F(or N) - Represents failure (or no credit) and signifies that the work was either (1) completed but at a level of achievement that is not worthy of credit or (2) was not completed and there was no agreement between the instructor and the student that the student would be awarded an I (see also I).
 
 The grading for this course is as follows:
 
@@ -389,28 +389,30 @@ Additional information is available on the DRC website: https://diversity.umn.ed
 
 As a student you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduce your ability to participate in daily activities. University of Minnesota services are available to assist you with addressing these and other concerns you may be experiencing.  You can learn more about the broad range of confidential mental health services available on campus via http://www.mentalhealth.umn.edu 
 
-## BIBLIOGRAPHY
+___
 
-- Baum, J.J. (2005). Cyber ethics: The new frontier. Tech Trends, 49(6), 54-55,78. 
-- Bellinger, G., Castro, D., Mills, A. (2004). Data, Information, Knowledge, and Wisdom.  Retrieved from http://www.systems-thinking.org/dikw/dikw.htm.
-- Bodi, S. (1998).  Ethics and information technology: Some principles to guide students. Journal of Academic Librarianship, 24(6), 459-463.  
-- Brey, P. (2007). Is information ethics culture-relative? International Jour of Tech and Human Interaction, 3(3), 12-24.
-- Budinger, T.F., & Budinger, M.D. (2006). Ethics of emerging technologies: Scientific facts and moral challenges. Hoboken, NJ: Wiley & Sons.
-- Burniske, R.W. (2003). Links in the chain of doing: The ethics of introducing educational technology in developing countries. Tech Trends, 47(6), 55-61.
-- Burniske, R.W. (2005). Sharing the sacred fire: Integrating educational technology without annihilating nature. Tech Trends, 49(6), 50-52.
-- Bynum, T.W. (2008). Norbert Wiener & the rise of information ethics. In J. Van den Hoven, & J. Weckert, (Eds.), Information technology and moral philosophy (8-25). Cambridge, MA: Cambridge University Press. 
-- Cocking, D. (2008). Plural selves and relational identity: Intimacy and privacy online. In J. Van den Hoven, & J. Weckert, (Eds.), Information technology and moral philosophy (123-141). Cambridge, MA: Cambridge University Press.
-- Ess, C. (2008). Culture and global networks: Hope for a global ethics? In J. Van den Hoven, & J. Weckert, (Eds.), Information technology and moral philosophy (195-225). Cambridge, MA: Cambridge University Press. 
-- Kaplan, D.M. (2004). Introduction. In D.M. Kaplan (Ed.), Readings in the philosophy of technology (xiii-xv). Lanham, MD:  Rowman & Littlefield Publishers. 
-- Kozma, R. (1994).  Will media influence learning: Reframing the debate. Educational Technology Research and Development, 42(2), 7-19.  
-- Kozma, R. (2003a). Global perspectives: Innovative technology integration practices from around the world. Learning and Leading with Technology, 31(2), 6-54. 
-- Kozma, R. (2003b). Technology and classroom practices: An international study. Journal of Research on Technology in Education, 36(1), 1-14. 
-- Kozma, R. & Wagner, D.A. (2006). Reaching the most disadvantaged with ICT: What works?  In R. Sweet & D. Wagner (Eds.), ICT in non-formal and adult education: Supporting out-of-school youth and adults (pp. 97-120). Paris: OECD. 
-- McMahon, J. M., & Cohen, R. (2009). Lost in cyberspace: Ethical decision making in the online environment. Ethics and Information Technology, 11, 1-17. 
-- Meeder, R. (2005). Access denied: Internet filtering software in K-12 classrooms. Tech Trends, 49(6), 56-58,78. 
-- Michelfelder, D.P. (2004). Technological ethics in a different voice. In D.M. Kaplan (Ed.), Readings in the philosophy of technology (273-288). Lanham, MD: Rowman & Littlefield Publishers. 
-- Muffoletto, R. (2003). Ethics: A discourse of power. Tech Trends, 47(6), 62-66.
-- Ribble, MS., & Bailey, G.D. (2005). Developing ethical direction. Learning & Leading with Technology, 32(7), 36-39.
-- Stark, C.D. (2005). Patently absurd: The ethical implications of software patents. Tech Trends, 49(6), 58-61,78.
-- Sunstein, C.R. (2008). Democracy and the internet. In J. Van den Hoven, & J. Weckert, (Eds.), Information technology and moral philosophy (93-110). Cambridge, MA: Cambridge University Press.
-- Villano, M. (2008). Digital citizenship: Text unto others as you would have them text unto you. T.H.E. Journal, 35(9), 47-51.
+## Bibliography
+
+- Baum, J.J. (2005). Cyber ethics: The new frontier. *Tech Trends, 49*(6), 54-55,78. 
+- Bellinger, G., Castro, D., Mills, A. (2004). *Data, Information, Knowledge, and Wisdom*. Retrieved from http://www.systems-thinking.org/dikw/dikw.htm.
+- Bodi, S. (1998).  Ethics and information technology: Some principles to guide students. *Journal of Academic Librarianship, 24*(6), 459-463.  
+- Brey, P. (2007). Is information ethics culture-relative? *International Journal of Tech and Human Interaction, 3*(3), 12-24.
+- Budinger, T.F., & Budinger, M.D. (2006). *Ethics of emerging technologies: Scientific facts and moral challenges*. Hoboken, NJ: Wiley & Sons.
+- Burniske, R.W. (2003). Links in the chain of doing: The ethics of introducing educational technology in developing countries. *Tech Trends, 47*(6), 55-61.
+- Burniske, R.W. (2005). Sharing the sacred fire: Integrating educational technology without annihilating nature. *Tech Trends, 49*(6), 50-52.
+- Bynum, T.W. (2008). Norbert Wiener & the rise of information ethics. In J. Van den Hoven, & J. Weckert, (Eds.), *Information technology and moral philosophy* (8-25). Cambridge, MA: Cambridge University Press. 
+- Cocking, D. (2008). Plural selves and relational identity: Intimacy and privacy online. In J. Van den Hoven, & J. Weckert, (Eds.), *Information technology and moral philosophy* (123-141). Cambridge, MA: Cambridge University Press.
+- Ess, C. (2008). Culture and global networks: Hope for a global ethics? In J. Van den Hoven, & J. Weckert, (Eds.), *Information technology and moral philosophy* (195-225). Cambridge, MA: Cambridge University Press. 
+- Kaplan, D.M. (2004). Introduction. In D.M. Kaplan (Ed.), *Readings in the philosophy of technology (xiii-xv)*. Lanham, MD:  Rowman & Littlefield Publishers. 
+- Kozma, R. (1994).  Will media influence learning: Reframing the debate. *Educational Technology Research and Development, 42*(2), 7-19.  
+- Kozma, R. (2003a). Global perspectives: Innovative technology integration practices from around the world. *Learning and Leading with Technology, 31*(2), 6-54. 
+- Kozma, R. (2003b). Technology and classroom practices: An international study. *Journal of Research on Technology in Education, 36*(1), 1-14. 
+- Kozma, R. & Wagner, D.A. (2006). Reaching the most disadvantaged with ICT: What works?  In R. Sweet & D. Wagner (Eds.), *ICT in non-formal and adult education: Supporting out-of-school youth and adults* (pp. 97-120). Paris: OECD. 
+- McMahon, J. M., & Cohen, R. (2009). Lost in cyberspace: Ethical decision making in the online environment. *Ethics and Information Technology, 11*, 1-17. 
+- Meeder, R. (2005). Access denied: Internet filtering software in K-12 classrooms. *Tech Trends, 49*(6), 56-58,78. 
+- Michelfelder, D.P. (2004). Technological ethics in a different voice. In D.M. Kaplan (Ed.), *Readings in the philosophy of technology* (273-288). Lanham, MD: Rowman & Littlefield Publishers. 
+- Muffoletto, R. (2003). Ethics: A discourse of power. *Tech Trends, 47*(6), 62-66.
+- Ribble, MS., & Bailey, G.D. (2005). Developing ethical direction. *Learning & Leading with Technology, 32*(7), 36-39.
+- Stark, C.D. (2005). Patently absurd: The ethical implications of software patents. *Tech Trends, 49*(6), 58-61,78.
+- Sunstein, C.R. (2008). Democracy and the internet. In J. Van den Hoven, & J. Weckert, (Eds.), *Information technology and moral philosophy* (93-110). Cambridge, MA: Cambridge University Press.
+- Villano, M. (2008). Digital citizenship: Text unto others as you would have them text unto you. *T.H.E. Journal, 35*(9), 47-51.
