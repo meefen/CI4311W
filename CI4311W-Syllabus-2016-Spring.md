@@ -66,13 +66,13 @@ Active engagement in interactions with your peers is essential for meaningful le
 - CI 4311W is established as a critique and analysis of values and ethical issues related to technology and its role in society.   Since this course is writing intensive, it will require that your written work reflect sound evidence of such personal introductory exploration or critique.  Please see “Class Assignment Overviews” for additional details on differences in assignment requirements.   
 
 
-| **CI 4311W Assignments**                                                            | **Points**  |
-|---------------------------------------------------------------------------------|---------|
-| Weekly Class Discussions/Reactions to Course Readings (10 points x 14 sessions) | 140     |
-| Initial project – topic of your choice                                          | 100     |
-| Continuing project – topic of your choice                                       | 100     |
-| Literature Review                                                               | 100     |
-| **Total**                                                                       | **440** |
+| **CI 4311W Assignments**                                                        | **Points**  |
+|---------------------------------------------------------------------------------|-------------|
+| Weekly Class Discussions/Reactions to Course Readings (10 points x 14 sessions) | 140         |
+| Initial project – topic of your choice                                          | 100         |
+| Continuing project – topic of your choice                                       | 100         |
+| Literature Review                                                               | 100         |
+| **Total**                                                                       | **440**     |
 
 
 ## Class Assignment Overview
@@ -104,11 +104,11 @@ You will create a project on a technology topic that interests you and holds sev
   2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]_Project1_[course number]_[section number].  For example, if I were submitting a paper, it might be ChenB_Project1_CI4311_001.  
   3. Inclusion of a reference/works cited page—but these do not count in your 4-5 pages.  In-text citations and a formal reference list in APA format are an important part of your paper and an ethical requirement. 
   4. Graphics are encouraged to better convey your understanding.   
-2.	Develop a multimedia project that better demonstrates your thinking about the topic at hand and/or adds to the viewer’s experience of your topic. However, this is a writing course, so keep that in mind as you consider the requirements:
-  a. These projects could take the form of a staged debate between two people, a video, original artwork, original music or others.
-  b. The project **must** be accompanied by a script, complete with citations, a reference list, and a reflection of your depth of understanding and thinking on the topic. 
-  c. You may complete this project individually or as a group, but with a group you’ll need to accommodate the need for everyone to demonstrate their work.
-  d. You are encouraged to use graphics or mixed media – but be sure to cite the sources you draw from in appropriate APA style. 
+2. Develop a multimedia project that better demonstrates your thinking about the topic at hand and/or adds to the viewer’s experience of your topic. However, this is a writing course, so keep that in mind as you consider the requirements:
+  1. These projects could take the form of a staged debate between two people, a video, original artwork, original music or others.
+  2. The project **must** be accompanied by a script, complete with citations, a reference list, and a reflection of your depth of understanding and thinking on the topic. 
+  3. You may complete this project individually or as a group, but with a group you’ll need to accommodate the need for everyone to demonstrate their work.
+  4. You are encouraged to use graphics or mixed media – but be sure to cite the sources you draw from in appropriate APA style. 
 
 Regardless of format (paper or multimedia project), you will be required to:
 
@@ -122,22 +122,110 @@ This second project is designed to provide you an opportunity to continue engagi
 
 1. You can elect to author an essay with the following requirements:
   1. Length between 4-5 pages long and written in APA format, double-spaced, 12-point font, with standard 1-inch margins.  
-b.	Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]_Project2_[course number]_[section number].  For example, if I were submitting a paper, it might be ChenB_Project2_CI4311_001.  
-c.	Inclusion of a reference/works cited page—but these do not count in your 4-5 pages.  In-text citations and a formal reference list in APA format are an important part of your paper and an ethical requirement. 
-d.	Graphics are encouraged to better convey your understanding.   
+  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]_Project2_[course number]_[section number].  For example, if I were submitting a paper, it might be ChenB_Project2_CI4311_001.  
+  3. Inclusion of a reference/works cited page—but these do not count in your 4-5 pages.  In-text citations and a formal reference list in APA format are an important part of your paper and an ethical requirement. 
+  4. Graphics are encouraged to better convey your understanding.   
 2.	Develop a multimedia project that better demonstrates your thinking about the topic at hand and/or adds to the viewer’s experience of your topic. However, this is a writing course, so keep that in mind as you consider the requirements:
-a.	These projects could take the form of a staged debate between two people, a video, original artwork, original music or others.
-b.	The project must be accompanied by a script, complete with citations, a reference list, and a reflection of your depth of understanding and thinking on the topic. 
-c.	You may complete this project individually or as a group, but with a group you’ll need to accommodate the need for everyone to demonstrate their understanding and knowledge.
-d.	You are encouraged to use graphics or mixed media – but be sure to cite the sources you draw from in appropriate APA style. 
+  1. These projects could take the form of a staged debate between two people, a video, original artwork, original music or others.
+  2. The project must be accompanied by a script, complete with citations, a reference list, and a reflection of your depth of understanding and thinking on the topic. 
+  3. You may complete this project individually or as a group, but with a group you’ll need to accommodate the need for everyone to demonstrate their understanding and knowledge.
+  4. You are encouraged to use graphics or mixed media – but be sure to cite the sources you draw from in appropriate APA style. 
 
 Regardless of format, you will be required to:
+
 1.	Show how the peer review process was engaged, and how it informed the submitted project
 2.	Be sure to draw at least two references total from our course readings/discussions in sessions 6 through 11, and still do so in meaningful ways.  Note that this excludes the readings and discussions from the first 5 weeks.
 
-Continuing Project due date: Monday, November 30, 2015 by 6:00PM CST.
+#### 2.3. Literature Review
 
-Literature Review:  You will be required to write a summative literature review that draws in at least two course readings plus three additional outside readings that encompass one of the major issues we discuss in class regarding the ethical basis of concerns associated with the rapidly expanding roles technology continues to play in our lives.  Additional articles can be accessed on our course site under the “Further Readings” forum, or you can do a relevant literature search on your own.  This analysis and critique should encompass a substantive literature review conveying critical reflection on the issue(s) presented.  I am willing to consider a deeper, more thorough examination of a topic covered in either the pop culture review or the research report.
-Potential issues include: pervasiveness of technology, technological dependence, privacy, autonomy, security of data, democracy online, freedom of expression online, technological euphoria, digital citizenship, technology integration in education, cultural relativity, communicative freedom, digital plagiarism, intellectual property rights, globalization, etc.  Your paper should be 5-6 pages long (no longer) and written in APA format, double-spaced, 12-point Times New Roman font, with standard 1-inch margins).  Please include a title and reference/works cited page—but these do not count in your 5-6 pages.  In-text citations and a formal reference list in APA or MLA format are an important part of your papers. Alternate projects (i.e., videos) are not a possible medium here.  However, embedded graphics used to clarify an issue, or to reduce complexity in difficult-to-understand topics, are acceptable and encouraged.
-Due date: Monday, December 16, 2015 by 6:00PM Central US time
+You will be required to write a summative literature review that draws in at least two course readings plus three additional outside readings that encompass one of the major issues we discuss in class regarding the ethical basis of concerns associated with the rapidly expanding roles technology continues to play in our lives.  Additional articles can be accessed on our course site under the “Further Readings” forum, or you can do a relevant literature search on your own.  This analysis and critique should encompass a substantive literature review conveying critical reflection on the issue(s) presented.  I am willing to consider a deeper, more thorough examination of a topic covered in either the pop culture review or the research report.
 
+Potential issues include: pervasiveness of technology, technological dependence, privacy, autonomy, security of data, democracy online, freedom of expression online, technological euphoria, digital citizenship, technology integration in education, cultural relativity, communicative freedom, digital plagiarism, intellectual property rights, globalization, etc.  Your paper should be **5-6 pages long (no longer)** and written **in APA format, double-spaced, 12-point Times New Roman font, with standard 1-inch margins)**.  Please include a title and reference/works cited page—but these do not count in your 5-6 pages.  In-text citations and a formal reference list in APA or MLA format are an important part of your papers. Alternate projects (i.e., videos) are not a possible medium here.  However, embedded graphics used to clarify an issue, or to reduce complexity in difficult-to-understand topics, are acceptable and encouraged.
+
+
+
+
+
+
+## Relevant University Policies
+
+### Grading System
+
+**Definition of Grades**
+
+A - achievement that is outstanding relative to the level necessary to meet course requirements. YOU ARE CAPABLE OF THIS LEVEL OF WORK. Period.  
+B - achievement that is significantly above the level necessary to meet course requirements.  
+C - achievement that meets the course requirements in every respect.  
+D - achievement that is worthy of credit even though it fails to meet fully the course requirements.  
+S - achievement that is satisfactory, which is equivalent to a C- or better (achievement required for an S is at the discretion of the instructor but may be no lower than equivalent to a C-.)  
+F(or N) - Represents failure (or no credit) and signifies that the work was either (1) completed but at a level of achievement that is not worthy of credit or (2) was not completed and there was no agreement between the instructor and the student that the student would be awarded an I (see also I).
+
+The grading for this course is as follows:
+
+| A  | 94 – 100% | C+ | 77 – 79% | D+ | 67 – 69% | F | Below 60% |
+|----|-----------|----|----------|----|----------|---|-----------|
+| A- | 90 – 93%  | C  | 74 – 76% | D  | 64 – 66% |   |           |
+| B+ | 87 – 89%  | C- | 70 – 73% | D- | 60 – 63% |   |           |
+| B  | 84 – 86%  |    |          |    |          |   |           |
+| B- | 80 – 83%  |    |          |    |          |   |           |
+
+It is worth noting here that the structure of this course is more about your learning than it is about a grade.  You are each capable of “A” work, and it is my assumption everyone starts with an “A”.  It is ultimately up to you to prove me wrong.  
+
+You will be provided feedback to help guide you to more resources, areas where you can improve, and aspects you are doing well in.  This feedback will typically be in the form of text- or audio-formats.  I will only communicate what your grade is upon request.  
+
+**Academic Dishonesty**
+
+Academic dishonesty in any portion of the academic work for a course shall be grounds for awarding a grade of F or N for the entire course.
+
+**Incomplete Grades:**
+
+The grade of "I" is not a regular University grade and cannot be given without **special arrangements under unusual circumstances**.  It cannot be given merely to extend the time allowed to complete course requirements.  If family or personal emergency requires that your attention be diverted from the course and that more time than usual is needed to complete course work, arrangements should be made with the instructor of the course before the quarter ends and consent obtained for receiving an "Incomplete" or "I" grade.  These arrangements should be made as soon as the need for an "I" can be anticipated.  A written agreement should be prepared indicating when the course assignment will be completed.  Normally an "Incomplete" grade for a course should be removed within one quarter of its receipt.
+
+**Receipt of Final Grade:**
+
+University policies do not permit the posting of final course grades nor the reporting of these grades over the telephone.  If you would like a record of your course grade before it is available via the University web site, provide a self-addressed stamped envelope to the instructor at some point prior to the last class session.
+
+**Feedback on projects:**
+
+During the course, feedback will be returned to students as soon as possible via our course website or email.  I reserve the right to return your project with an expectation of your re-doing it to better reflect your best work.  
+
+### Disabilities
+
+The University of Minnesota is committed to providing equitable access to learning opportunities for all students.  The Disability Resource Center (DRC) is the campus office that collaborates with students who have disabilities to provide and/or arrange reasonable accommodations. 
+
+- If you have, or think you may have, a disability (e.g., mental health, attentional, learning, chronic health, sensory, or physical), please contact the DRC at 612-626-1333 to arrange a confidential discussion regarding equitable access and reasonable accommodations.
+- If you are registered with the DRC and have a current letter requesting reasonable accommodations, we encourage you to contact your instructor early in the semester to review how the accommodations will be applied in the course.
+
+Additional information is available on the DRC website: https://diversity.umn.edu/disability/
+
+### Mental Health
+
+As a student you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduce your ability to participate in daily activities. University of Minnesota services are available to assist you with addressing these and other concerns you may be experiencing.  You can learn more about the broad range of confidential mental health services available on campus via http://www.mentalhealth.umn.edu 
+
+## BIBLIOGRAPHY
+
+- Baum, J.J. (2005). Cyber ethics: The new frontier. Tech Trends, 49(6), 54-55,78. 
+- Bellinger, G., Castro, D., Mills, A. (2004). Data, Information, Knowledge, and Wisdom.  Retrieved from http://www.systems-thinking.org/dikw/dikw.htm.
+- Bodi, S. (1998).  Ethics and information technology: Some principles to guide students. Journal of Academic Librarianship, 24(6), 459-463.  
+- Brey, P. (2007). Is information ethics culture-relative? International Jour of Tech and Human Interaction, 3(3), 12-24.
+- Budinger, T.F., & Budinger, M.D. (2006). Ethics of emerging technologies: Scientific facts and moral challenges. Hoboken,
+- NJ: Wiley & Sons.
+- Burniske, R.W. (2003). Links in the chain of doing: The ethics of introducing educational technology in developing
+- countries. Tech Trends, 47(6), 55-61.
+- Burniske, R.W. (2005). Sharing the sacred fire: Integrating educational technology without annihilating nature. Tech Trends, 49(6), 50-52.
+- Bynum, T.W. (2008). Norbert Wiener & the rise of information ethics. In J. Van den Hoven, & J. Weckert, (Eds.), Information technology and moral philosophy (8-25). Cambridge, MA: Cambridge University Press. 
+- Cocking, D. (2008). Plural selves and relational identity: Intimacy and privacy online. In J. Van den Hoven, & J. Weckert, (Eds.), Information technology and moral philosophy (123-141). Cambridge, MA: Cambridge University Press.
+- Ess, C. (2008). Culture and global networks: Hope for a global ethics? In J. Van den Hoven, & J. Weckert, (Eds.), Information technology and moral philosophy (195-225). Cambridge, MA: Cambridge University Press. 
+- Kaplan, D.M. (2004). Introduction. In D.M. Kaplan (Ed.), Readings in the philosophy of technology (xiii-xv). Lanham, MD:  Rowman & Littlefield Publishers. 
+- Kozma, R. (1994).  Will media influence learning: Reframing the debate. Educational Technology Research and Development, 42(2), 7-19.  
+- Kozma, R. (2003a). Global perspectives: Innovative technology integration practices from around the world. Learning and Leading with Technology, 31(2), 6-54. 
+- Kozma, R. (2003b). Technology and classroom practices: An international study. Journal of Research on Technology in Education, 36(1), 1-14. 
+- Kozma, R. & Wagner, D.A. (2006). Reaching the most disadvantaged with ICT: What works?  In R. Sweet & D. Wagner (Eds.), ICT in non-formal and adult education: Supporting out-of-school youth and adults (pp. 97-120). Paris: OECD. 
+- McMahon, J. M., & Cohen, R. (2009). Lost in cyberspace: Ethical decision making in the online environment. Ethics and Information Technology, 11, 1-17. 
+- Meeder, R. (2005). Access denied: Internet filtering software in K-12 classrooms. Tech Trends, 49(6), 56-58,78. 
+- Michelfelder, D.P. (2004). Technological ethics in a different voice. In D.M. Kaplan (Ed.), Readings in the philosophy of technology (273-288). Lanham, MD: Rowman & Littlefield Publishers. 
+- Muffoletto, R. (2003). Ethics: A discourse of power. Tech Trends, 47(6), 62-66.
+- Ribble, MS., & Bailey, G.D. (2005). Developing ethical direction. Learning & Leading with Technology, 32(7), 36-39.
+- Stark, C.D. (2005). Patently absurd: The ethical implications of software patents. Tech Trends, 49(6), 58-61,78.
+- Sunstein, C.R. (2008). Democracy and the internet. In J. Van den Hoven, & J. Weckert, (Eds.), Information technology and moral philosophy (93-110). Cambridge, MA: Cambridge University Press.
+- Villano, M. (2008). Digital citizenship: Text unto others as you would have them text unto you. T.H.E. Journal, 35(9), 47-51.
