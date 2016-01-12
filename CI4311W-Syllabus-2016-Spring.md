@@ -163,7 +163,6 @@ F(or N) - Represents failure (or no credit) and signifies that the work was eith
 The grading for this course is as follows:
 
 | A  | 94 – 100% | C+ | 77 – 79% | D+ | 67 – 69% | F | Below 60% |
-|----|-----------|----|----------|----|----------|---|-----------|
 | A- | 90 – 93%  | C  | 74 – 76% | D  | 64 – 66% |   |           |
 | B+ | 87 – 89%  | C- | 70 – 73% | D- | 60 – 63% |   |           |
 | B  | 84 – 86%  |    |          |    |          |   |           |
