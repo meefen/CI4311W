@@ -12,7 +12,7 @@ E-mail: chenbd@umn.edu
 
 ## Course Description & Outcomes
 
-Technology is pervasive in contemporary society, affecting virtually every facet of human existence.  It is commonplace in homes.  It has transformed work and communities, and even impacted the meaning of the word *community*.  It has made the world smaller through advances in communication and afforded new ways to interact with others – think of email, social media and free real-time video chat.  Despite the fact that it is so central to our lives, we often take technology for granted.  Technology as a broad subject is often thought of only as “computers”, ignoring phones, vehicles, or design methods - and we seldom have an opportunity to reflect upon these influences in our lives.  This course is designed to encourage such reflection by inviting you into a deeper discourse on technology, its impacts, and what relationship ethics has to technology and society.  
+Technology is pervasive in contemporary society, affecting virtually every facet of human existence.  It is commonplace in homes.  It has transformed work and communities, and even impacted the meaning of the word *community*.  It has made the world smaller through advances in communication and afforded new ways to interact with others – think of email, social media and free real-time video chat.  Despite the fact that it is so central to our lives, we often take technology for granted.  Technology as a broad subject is often thought of only as “computers”, ignoring phones, vehicles, or design methods -- and we seldom have an opportunity to reflect upon these influences in our lives.  This course is designed to encourage such reflection by inviting you into a deeper discourse on technology, its impacts, and what relationship ethics has to technology and society.  
 
 Liberal education (LE) is an essential part of your educational experience at the University of Minnesota. LE courses help you investigate the world from new perspectives, learn ways of thinking that will be useful to you in many areas of your life, and grow as an active citizen and lifelong learner.  This course fulfills the LE Civic Life and Ethics Theme requirement and is premised upon the assumption that good citizenship calls for a critical understanding of technology as it impacts us in our day-to-day world.  The course’s design explores, analyzes, and critically examines the uses of technology in education, global society, and the lives of individuals.  Many advancing technologies, such as the Internet, present tremendous value to improve peoples’ lives across the globe.  It is shortsighted to ignore potential threats that unethical use or misuse of technology bring in terms of cultural impacts, equity of distribution/access to knowledge, and on the rights of individuals (e.g. privacy and the potential for abuse of personal data).  The course’s design enables a learning experience that values and challenges each individual’s prior knowledge, while encouraging critical reflection upon the relationships that learners see and discover between technological innovations, the lives of individuals, and implications for our global society.
 
@@ -30,9 +30,9 @@ You will be guided towards, and supported in, the development of your own inform
 
 ## Course Web Site
 
-You will be responsible for becoming familiar with the course website, as this will be our means of interacting and communicating throughout the course.  The website is hosted on [Canvas](https://umn.instructure.com/courses/393). Before your first access of the site, you will need to respond to an invitation sent to whatever email address you used to register with OneStop. Please bookmark the site address in your browser.
+You will be responsible for becoming familiar with the course website, as this will be our means of interacting and communicating throughout the course.  The website is hosted on [Canvas](https://umn.instructure.com/courses/393). (Before your first access of the site, you may need to respond to an invitation sent to whatever email address you used to register with OneStop.) Please bookmark the site address in your browser.
 
-Some of you may have used Moodle, Ning or other online course management sites before; I am moving the course towards using Canvas to enable ongoing conversations and social interactions between and among all of us, while also providing an easy way to access grades, use a Calendar, and enable group discussions. 
+Some of you may have used Moodle, Ning or other online course management sites before. I am moving the course into Canvas to enable ongoing conversations and social interactions between and among all of us, while also providing an easy way to access grades, use a Calendar, and enable group discussions. To become familiar with this new technology, take a [Canvas student tour](https://umn.instructure.com/courses/54).
 
 ## Course Structure
 
@@ -42,11 +42,11 @@ There is no required textbook that you must purchase for this course.
 
 ### Readings
 
-This course requires intensive reading.  All of the readings will be provided and available for you via our course website; however, a limited number of readings will be available at any one time.  The readings noted below in the syllabus should all be considered as subject to change; with the rapid pace of change inherent to the Internet, it may work best to use brand new material unavailable at the time of this writing.
+This course requires intensive reading.  All of the readings will be provided and available for you via our course website; however, a limited number of readings will be available at any one time.  The readings noted below in the syllabus should all be considered as subject to change; with the rapid pace of change inherent to technology, it may work best to use brand new material unavailable at the time of this writing.
 
 ### Class Sessions
 
-This course is scheduled to meet online only.  There will be no required, in person face-to-face sessions.  Please be aware that there will be multiple assignments in order to complete the requirements for this *writing-intensive* course. Our learning together in this online community will be fun and highly interactive, but it does require that you are very self-motivated in order to stay on top of assignments and coursework. First, you will respond to questions and interact with your classmates based on new readings that will be assigned each class (there will be 14 “class sessions”) using various online tools that will be explained to you. Additionally, you will have a list of the main writing assignments, which you can continue to work on until each one is complete and submitted.  I will have target due dates for each of these writing assignments to help keep you on task.
+This course is scheduled to meet online only.  There will be no required, in person face-to-face sessions.  Please be aware that there will be multiple assignments in order to complete the requirements for this *writing-intensive* course. Our learning together in this online community will be fun and highly interactive, but it does require that you are very self-motivated in order to stay on top of assignments and coursework. First, you will respond to questions and interact with your classmates based on new readings that will be assigned each class (there will be 14 “class sessions”) using various online tools that will be explained to you. Additionally, you will have a list of the main writing assignments, which you can continue to work on until each one is complete and submitted.  There is a due date for each of these writing assignments to keep you on track.
 
 ### Student Internet Access
 
@@ -69,7 +69,7 @@ Active engagement in interactions with your peers is essential for meaningful le
 | **CI 4311W Assignments**                                                        | **Points**  |
 |---------------------------------------------------------------------------------|-------------|
 | Weekly Class Discussions/Reactions to Course Readings (10 points x 14 sessions) | 140         |
-| Initial project – topic of your choice                                          | 100         |
+| Initial exploration project – topic of your choice                                          | 100         |
 | Continuing project – topic of your choice                                       | 100         |
 | Literature Review                                                               | 100         |
 | **Total**                                                                       | **440**     |
@@ -100,8 +100,8 @@ Submissions for a paper-style project should include the document (as outlined b
 You will create a project on a technology topic that interests you and holds several ethical implications as it affects society today, and frame your initial exploration based on readings and discussions from the first five class meetings. Example topics picked by former students included hydrogen-powered cars, cyberbulling, surveillance, Ebola drugs, etc. You are welcome to draw upon your own personal experiences or information available on the Internet for background information, but please note you’ll need to reference at least one course reading too.  While it is not required, I hope you’ll consider this an opportunity to get out of your “comfort zone” and challenge yourself!
 
 1. You can elect to author an essay with the following requirements:
-  1. Length between 4-5 pages long and written **in APA format, double-spaced, 12-point font, with standard 1-inch margins*.
-  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]_Project1_[course number]_[section number].  For example, if I were submitting a paper, it might be ChenB_Project1_CI4311_001.  
+  1. Length between 4-5 pages long and written **in APA format, double-spaced, 12-point font, with standard 1-inch margins**. For your convenience, I recommend using the [Word template](http://www.siue.edu/~prose/classes/APAFormatTemplate.doc) or the [Google Doc template](https://drive.google.com/previewtemplate?id=1cWBJYL0BbVocbSmFDMz2_440Wp3fIYLZs50QHbu2UiY&mode=public) as your starting point.
+  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]/_Project1/_[course number]_[section number].  For example, if I were submitting a paper, it might be ChenB_Project1_CI4311_001.  
   3. Inclusion of a reference/works cited page—but these do not count in your 4-5 pages.  In-text citations and a formal reference list in APA format are an important part of your paper and an ethical requirement. 
   4. Graphics are encouraged to better convey your understanding.   
 2. Develop a multimedia project that better demonstrates your thinking about the topic at hand and/or adds to the viewer’s experience of your topic. However, this is a writing course, so keep that in mind as you consider the requirements:
@@ -110,7 +110,7 @@ You will create a project on a technology topic that interests you and holds sev
   3. You may complete this project individually or as a group, but with a group you’ll need to accommodate the need for everyone to demonstrate their work.
   4. You are encouraged to use graphics or mixed media – but be sure to cite the sources you draw from in appropriate APA style. 
 
-Regardless of format (paper or multimedia project), you will be required to:
+**Regardless of format (paper or multimedia project), you will be required to:**
 
 1. Show how the peer review process was engaged, and how it informed the submitted project.
 2. Be sure to draw at least two references total from our first five course readings/discussions in meaningful ways.
@@ -118,20 +118,20 @@ Regardless of format (paper or multimedia project), you will be required to:
 
 #### 2.2. Continuing Project on a Topic of Your Choice
 
-This second project is designed to provide you an opportunity to continue engaging with your topic, although in a fresh context of readings and discussions from between classes 6 through 12. While you are not strictly required to stick to the same topic as the initial project, it is highly encouraged.  You are again welcomed to either write a paper or develop a multimedia project.  All of the prior requirements remain, including peer review as in the initial project, but with a few changes (in bold, below):
+This second project is designed to provide you an opportunity to continue engaging with your topic, although in a fresh context of readings and discussions from between classes 6 through 12. While you are not strictly required to stick to the same topic as the initial project, it is highly encouraged.  You are again welcomed to either write a paper or develop a multimedia project.  All of the prior requirements remain, including peer review as in the initial project, but with a few changes (in **bold**, below):
 
 1. You can elect to author an essay with the following requirements:
-  1. Length between 4-5 pages long and written in APA format, double-spaced, 12-point font, with standard 1-inch margins.  
-  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]_Project2_[course number]_[section number].  For example, if I were submitting a paper, it might be ChenB_Project2_CI4311_001.  
+  1. Length between 4-5 pages long and written in **APA format, double-spaced, 12-point font, with standard 1-inch margins**.  
+  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]_**Project2**_[course number]_[section number].  For example, if I were submitting a paper, it might be ChenB_Project2_CI4311_001.  
   3. Inclusion of a reference/works cited page—but these do not count in your 4-5 pages.  In-text citations and a formal reference list in APA format are an important part of your paper and an ethical requirement. 
   4. Graphics are encouraged to better convey your understanding.   
 2.	Develop a multimedia project that better demonstrates your thinking about the topic at hand and/or adds to the viewer’s experience of your topic. However, this is a writing course, so keep that in mind as you consider the requirements:
   1. These projects could take the form of a staged debate between two people, a video, original artwork, original music or others.
-  2. The project must be accompanied by a script, complete with citations, a reference list, and a reflection of your depth of understanding and thinking on the topic. 
+  2. The project **must** be accompanied by a script, complete with citations, a reference list, and a reflection of your depth of understanding and thinking on the topic. 
   3. You may complete this project individually or as a group, but with a group you’ll need to accommodate the need for everyone to demonstrate their understanding and knowledge.
   4. You are encouraged to use graphics or mixed media – but be sure to cite the sources you draw from in appropriate APA style. 
 
-Regardless of format, you will be required to:
+**Regardless of format, you will be required to:**
 
 1.	Show how the peer review process was engaged, and how it informed the submitted project
 2.	Be sure to draw at least two references total from our course readings/discussions **in sessions 6 through 11, and still do so in meaningful ways.  Note that this excludes the readings and discussions from the first 5 weeks.**
@@ -151,16 +151,13 @@ The due time for each class is Monday at 6:00PM Central US time. For example, al
 
 ### Class #1 – Due by Monday, January 25 - Introductions
 
-Activities:
+Reading:
 
-- **Read the syllabus carefully**!
-- Familiarizing ourselves with one another and the technologies:
-  - Canvas (online social learning environment = our course Website)
-  - FlipGrid (a video “wall” site)
+- **The syllabus**!
 
 Assignments: 
 
-- Snoop around our website! You’re encouraged to add a personal profile photo to our site too.
+- Snoop around Canvas! You’re encouraged to add a personal profile photo to our site too.
 - Now is also the time to get any initial questions you have answered!  Post any questions to have about the syllabus, the website, or the course in general to the “Questions” forum.
 - In the discussion forum, share “What do you understand ethics to be now?”
 - Post a video on FlipGrid to introduce yourself.
