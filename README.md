@@ -1,2 +1,3 @@
 # CI4311W
-CI4311W course materials
+
+- [Syllabus Spring'16](CI4311W-Syllabus-2016-Spring.md)
