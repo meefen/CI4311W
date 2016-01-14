@@ -12,7 +12,7 @@ E-mail: chenbd@umn.edu
 
 ## Course Description & Outcomes
 
-Technology is pervasive in contemporary society, affecting virtually every facet of human existence.  It is commonplace in homes.  It has transformed work and communities, and even impacted the meaning of the word *community*.  It has made the world smaller through advances in communication and afforded new ways to interact with others – think of email, social media and free real-time video chat.  Despite the fact that it is so central to our lives, we often take technology for granted.  Technology as a broad subject is often thought of only as “computers”, ignoring phones, vehicles, or design methods -- and we seldom have an opportunity to reflect upon these influences in our lives.  This course is designed to encourage such reflection by inviting you into a deeper discourse on technology, its impacts, and what relationship ethics has to technology and society.  
+Technology is pervasive in contemporary society, affecting virtually every facet of human existence.  It is commonplace in homes.  It has transformed work and communities, and even impacted the meaning of the word *community*.  It has made the world smaller through advances in communication and afforded new ways to interact with others – think of email, social media and free real-time video chat.  Despite the fact that it is so central to our lives, we often take technology for granted.  Technology as a broad subject is often thought of only as "computers", ignoring phones, vehicles, or design methods -- and we seldom have an opportunity to reflect upon these influences in our lives.  This course is designed to encourage such reflection by inviting you into a deeper discourse on technology, its impacts, and what relationship ethics has to technology and society.  
 
 Liberal education (LE) is an essential part of your educational experience at the University of Minnesota. LE courses help you investigate the world from new perspectives, learn ways of thinking that will be useful to you in many areas of your life, and grow as an active citizen and lifelong learner.  This course fulfills the LE Civic Life and Ethics Theme requirement and is premised upon the assumption that good citizenship calls for a critical understanding of technology as it impacts us in our day-to-day world.  The course’s design explores, analyzes, and critically examines the uses of technology in education, global society, and the lives of individuals.  Many advancing technologies, such as the Internet, present tremendous value to improve peoples’ lives across the globe.  It is shortsighted to ignore potential threats that unethical use or misuse of technology bring in terms of cultural impacts, equity of distribution/access to knowledge, and on the rights of individuals (e.g. privacy and the potential for abuse of personal data).  The course’s design enables a learning experience that values and challenges each individual’s prior knowledge, while encouraging critical reflection upon the relationships that learners see and discover between technological innovations, the lives of individuals, and implications for our global society.
 
@@ -46,7 +46,7 @@ This course requires intensive reading.  All of the readings will be provided an
 
 ### Class Sessions
 
-This course is scheduled to meet online only.  There will be no required, in person face-to-face sessions.  Please be aware that there will be multiple assignments in order to complete the requirements for this *writing-intensive* course. Our learning together in this online community will be fun and highly interactive, but it does require that you are very self-motivated in order to stay on top of assignments and coursework. First, you will respond to questions and interact with your classmates based on new readings that will be assigned each class (there will be 14 “class sessions”) using various online tools that will be explained to you. Additionally, you will have a list of the main writing assignments, which you can continue to work on until each one is complete and submitted.  There is a due date for each of these writing assignments to keep you on track.
+This course is scheduled to meet online only.  There will be no required, in person face-to-face sessions.  Please be aware that there will be multiple assignments in order to complete the requirements for this *writing-intensive* course. Our learning together in this online community will be fun and highly interactive, but it does require that you are very self-motivated in order to stay on top of assignments and coursework. First, you will respond to questions and interact with your classmates based on new readings that will be assigned each class (there will be 14 "class sessions") using various online tools that will be explained to you. Additionally, you will have a list of the main writing assignments, which you can continue to work on until each one is complete and submitted.  There is a due date for each of these writing assignments to keep you on track.
 
 ### Student Internet Access
 
@@ -54,7 +54,19 @@ This course will require that you have ready and reliable access to the Internet
 
 ### Technology
 
-You will need to become very well versed with several technology applications for this course.  We will be using Canvas for our course website.  I am confident you will find it very user-friendly and easy to navigate.  It will likely seem as familiar to you as any of the other popular social networking sites that you may already be using. Our weekly discussions will take place primarily through discussion forum in Canvas, so please make yourself familiar with its functionalities. You will also need to be able to understand and implement hypermedia software (i.e., Microsoft Word, Adobe Acrobat, Microsoft PowerPoint, and/or Google Docs).  Additionally, we will use FlipGrid, a video-based messaging system, periodically. Please ensure you have consistent access to a webcam, microphone and are comfortable with their use.  It is worth noting that there is now a free iOS Flipgrid app which you are welcome to use.  
+You will need to become very well versed with several technology applications for this course. 
+
+First of all, We will be using Canvas for our course website. As part of the University of Minnesota’s ongoing mission to review and evaluate emerging instructional technology, the University of Minnesota is conducting a pilot to assess Canvas as a learning management system (LMS). Our Spring 2016 class section is part of a small pilot and will use the Canvas learning management system (instead of Moodle).  
+
+Since this is a pilot, you will not be able to find Canvas through your MyU account. You may wish to add the Canvas login link to your bookmarks/favorites: [https://umn.instructure.com](https://umn.instructure.com)  Our weekly discussions will take place primarily through discussion forum in Canvas, so please make yourself familiar with its functionalities.
+
+If you need help using Canvas, here are some resources:
+- [Getting started with Canvas guide](https://docs.google.com/document/d/1Ev4biQGpw4TqnNc8JhzLy1FohSGIGOEX4m8zaKeBm7A/edit#bookmark=id.tsola6hjhex)
+- [Canvas tutorial videos](https://umn.instructure.com/courses/54/pages/canvas-student-tour-videos)
+
+You will also need to be able to understand and implement hypermedia software (i.e., Microsoft Word, Adobe Acrobat, Microsoft PowerPoint, and/or Google Docs). 
+
+Additionally, we will use [FlipGrid](http://flipgrid.com/info/), a video-based messaging system, periodically. Please ensure you have consistent access to a webcam, microphone and are comfortable with their use.  It is worth noting that there is now a free iOS Flipgrid app which you are welcome to use.
 
 
 ## Class Participation
@@ -63,7 +75,7 @@ Active engagement in interactions with your peers is essential for meaningful le
 
 *Assignments and Grades (All assignments are subject to change!)*
 
-- CI 4311W is established as a *critique and analysis* of values and ethical issues related to technology and its role in society.   Since this course is writing intensive, it will require that your written work reflect sound evidence of such personal introductory exploration or critique.  Please see “Class Assignment Overviews” for additional details on differences in assignment requirements.   
+- CI 4311W is established as a *critique and analysis* of values and ethical issues related to technology and its role in society.   Since this course is writing intensive, it will require that your written work reflect sound evidence of such personal introductory exploration or critique.  Please see "Class Assignment Overviews" for additional details on differences in assignment requirements.   
 
 
 | **CI 4311W Assignments**                                                        | **Points**  |
@@ -85,7 +97,7 @@ During class discussion, reflective, thoughtful debates of groups with alternati
 
 Meanwhile, I encourage you consider our class as a learning community, in which discussion is a means for the community to become more knowledgeable as a collective. Debates are not carried out for winning, but to build more advanced knowledge together. 
 
-**Please consider Mondays as our official course “meeting day” just like you would if this were a Face to Face course.  As such, all of our class discussions/reflections will be due by 6:00PM EACH Monday unless otherwise noted.**
+**Please consider Mondays as our official course "meeting day" just like you would if this were a Face to Face course.  As such, all of our class discussions/reflections will be due by 6:00PM EACH Monday unless otherwise noted.**
 
 ### 2. Student Projects
 
@@ -97,7 +109,7 @@ Submissions for a paper-style project should include the document (as outlined b
 
 #### 2.1. Initial Exploration of a Topic of Your Choice
 
-You will create a project on a technology topic that interests you and holds several ethical implications as it affects society today, and frame your initial exploration based on readings and discussions from the first five class meetings. Example topics picked by former students included hydrogen-powered cars, cyberbulling, surveillance, Ebola drugs, etc. You are welcome to draw upon your own personal experiences or information available on the Internet for background information, but please note you’ll need to reference at least one course reading too.  While it is not required, I hope you’ll consider this an opportunity to get out of your “comfort zone” and challenge yourself!
+You will create a project on a technology topic that interests you and holds several ethical implications as it affects society today, and frame your initial exploration based on readings and discussions from the first five class meetings. Example topics picked by former students included hydrogen-powered cars, cyberbulling, surveillance, Ebola drugs, etc. You are welcome to draw upon your own personal experiences or information available on the Internet for background information, but please note you’ll need to reference at least one course reading too.  While it is not required, I hope you’ll consider this an opportunity to get out of your "comfort zone" and challenge yourself!
 
 1. You can elect to author an essay with the following requirements:
   1. Length between 4-5 pages long and written **in APA format, double-spaced, 12-point font, with standard 1-inch margins**. For your convenience, I recommend using the [Word template](http://www.siue.edu/~prose/classes/APAFormatTemplate.doc) or the [Google Doc template](https://drive.google.com/previewtemplate?id=1cWBJYL0BbVocbSmFDMz2_440Wp3fIYLZs50QHbu2UiY&mode=public) as your starting point.
@@ -138,7 +150,7 @@ This second project is designed to provide you an opportunity to continue engagi
 
 #### 2.3. Literature Review
 
-You will be required to write a summative literature review that draws in at least two course readings plus three additional outside readings that encompass one of the major issues we discuss in class regarding the ethical basis of concerns associated with the rapidly expanding roles technology continues to play in our lives.  Additional articles can be accessed on our course site under the “Further Readings” forum, or you can do a relevant literature search on your own.  This analysis and critique should encompass a substantive literature review conveying critical reflection on the issue(s) presented.  I am willing to consider a deeper, more thorough examination of a topic covered in either the pop culture review or the research report.
+You will be required to write a summative literature review that draws in at least two course readings plus three additional outside readings that encompass one of the major issues we discuss in class regarding the ethical basis of concerns associated with the rapidly expanding roles technology continues to play in our lives.  Additional articles can be accessed on our course site under the "Further Readings" forum, or you can do a relevant literature search on your own.  This analysis and critique should encompass a substantive literature review conveying critical reflection on the issue(s) presented.  I am willing to consider a deeper, more thorough examination of a topic covered in either the pop culture review or the research report.
 
 Potential issues include: pervasiveness of technology, technological dependence, privacy, autonomy, security of data, democracy online, freedom of expression online, technological euphoria, digital citizenship, technology integration in education, cultural relativity, communicative freedom, digital plagiarism, intellectual property rights, globalization, etc.  Your paper should be **5-6 pages long (no longer)** and written **in APA format, double-spaced, 12-point Times New Roman font, with standard 1-inch margins)**.  Please include a title and reference/works cited page—but these do not count in your 5-6 pages.  In-text citations and a formal reference list in APA format are an important part of your papers. Alternate projects (i.e., videos) are not a possible medium here.  However, embedded graphics used to clarify an issue, or to reduce complexity in difficult-to-understand topics, are acceptable and encouraged.
 
@@ -159,8 +171,8 @@ Reading:
 Assignments: 
 
 - Snoop around Canvas! You’re encouraged to add a personal profile photo to our site too.
-- Now is also the time to get any initial questions you have answered!  Post any questions to have about the syllabus, the website, or the course in general to the “Questions” forum.
-- In the discussion forum, share “What do you understand ethics to be now?”
+- Now is also the time to get any initial questions you have answered!  Post any questions to have about the syllabus, the website, or the course in general to the "Questions" forum.
+- In the discussion forum, share "What do you understand ethics to be now?"
 - Post a video on FlipGrid to introduce yourself.
 
 
@@ -168,11 +180,11 @@ Assignments:
 
 How are we influenced by technology?  
 How does ethics relate to technology?  
-Opening the dialogue of ethics as a “slippery subject”
+Opening the dialogue of ethics as a "slippery subject"
 
 Readings:
 
-- Excerpt: “Introduction” by Kaplan from “Readings in the Philosophy of Technology” (2004) 
+- Excerpt: "Introduction" by Kaplan from "Readings in the Philosophy of Technology" (2004) 
 
 Assignments: 
 
@@ -182,18 +194,18 @@ Assignments:
 
 Readings: 
 
-- “Ethical principles, reasoning, and decision making” (Budinger & Budinger, 2006) 
+- "Ethical principles, reasoning, and decision making" (Budinger & Budinger, 2006) 
 
 Assignments: 
 
-- Put together a few ideas for your “Initial Exploration Project”.  These should interest you with regard to ethical dilemmas posed by technology (human stem cell research, for example).  We will be creating a collective list as a class to help steer our direction of study this semester according to YOUR interests! 
+- Put together a few ideas for your "Initial Exploration Project".  These should interest you with regard to ethical dilemmas posed by technology (human stem cell research, for example).  We will be creating a collective list as a class to help steer our direction of study this semester according to YOUR interests! 
 - Reading reflection
 
 ### Class #4 – Due by Monday, February 15 - Information Ethics
 
 Readings:
 
-- “Norbert Wiener & the rise of information ethics” (Bynum, 2008)
+- "Norbert Wiener & the rise of information ethics" (Bynum, 2008)
 
 Assignments: 
 
@@ -203,8 +215,8 @@ Assignments:
 
 Readings: 
 
-- “Developing ethical direction” (Ribble & Bailey, 2005)
-- “Digital citizenship: Text unto others as you would have them text unto you” (Villano, 2008)
+- "Developing ethical direction" (Ribble & Bailey, 2005)
+- "Digital citizenship: Text unto others as you would have them text unto you" (Villano, 2008)
 
 Assignments:
 
@@ -219,21 +231,21 @@ Copyright/Intellectual Property Rights
 
 Readings:
 
-- “Cyber ethics: The new frontier” (Baum, 2005)
-- “Ethics and information technology: Some principles to guide students” (Bodi, 1998)
-- “Lost in cyberspace: Ethical decision making in the online environment” (McMahon & Cohen, 2009)
-- “Patently absurd: The ethical implications of software patents” (Stark, 2005)
+- "Cyber ethics: The new frontier" (Baum, 2005)
+- "Ethics and information technology: Some principles to guide students" (Bodi, 1998)
+- "Lost in cyberspace: Ethical decision making in the online environment" (McMahon & Cohen, 2009)
+- "Patently absurd: The ethical implications of software patents" (Stark, 2005)
 
 Assignments:
 
 - Reading reflection
 - **Initial Exploration project peer reviews due**
 
-### Class #7 – Due by Monday, March 7 - The Difference between “Data” and “Actionable Information”
+### Class #7 – Due by Monday, March 7 - The Difference between "Data" and "Actionable Information"
 
 Readings:
 
-- “Data, Information, Knowledge, Wisdom” (Bellinger, Castro and Mills, 2004)
+- "Data, Information, Knowledge, Wisdom" (Bellinger, Castro and Mills, 2004)
 
 Assignments:
 
@@ -246,8 +258,8 @@ Assignments:
 
 Readings:
 
-- “Democracy and the Internet” (Sunstein, 2008)
-- “Technological euphoria and contemporary citizenship” (Winner, 2005)
+- "Democracy and the Internet" (Sunstein, 2008)
+- "Technological euphoria and contemporary citizenship" (Winner, 2005)
 - "[The Internet: Foe of Democracy?](http://harvardmagazine.com/2009/03/the-internet-foe-democracy)" (Shaw, 2009)
 
 Assignments:
@@ -258,8 +270,8 @@ Assignments:
 
 Readings: 
 
-- Article: “Access denied: Internet filtering software in K-12 classrooms” (Meeder, 2005)
-- Article: “Ethics: A discourse of power” (Muffoletto, 2003)
+- Article: "Access denied: Internet filtering software in K-12 classrooms" (Meeder, 2005)
+- Article: "Ethics: A discourse of power" (Muffoletto, 2003)
 
 Assignments: 
 
@@ -271,9 +283,9 @@ Technology Integration in Education: Ethical Implications
 
 Readings:
 
-- “Sharing the sacred fire: Integrating educational technology without annihilating nature” (Burniske, 2005)
-- “Will media influence learning: Reframing the debate” (Kozma, 1994)
-- “Technology and classroom practices: An international study” (Kozma, 2003b)
+- "Sharing the sacred fire: Integrating educational technology without annihilating nature" (Burniske, 2005)
+- "Will media influence learning: Reframing the debate" (Kozma, 1994)
+- "Technology and classroom practices: An international study" (Kozma, 2003b)
 
 Assignments:
 
@@ -284,9 +296,9 @@ Assignments:
 
 Readings: 
 
-- “Is information ethics culture-relative?”  (Brey, 2007)
-- “Culture and global networks: Hope for a global ethics?” (Ess, 2008) or
-- “Becoming Interculturally Competent” (Bennet, 2004)
+- "Is information ethics culture-relative?"  (Brey, 2007)
+- "Culture and global networks: Hope for a global ethics?" (Ess, 2008) or
+- "Becoming Interculturally Competent" (Bennet, 2004)
 
 Assignments:
 
@@ -300,9 +312,9 @@ Technology to support educational reform and economic/social development
 
 Readings: 
 
-- “Links in the chain of doing: The ethics of introducing educational technology in developing countries” (Burniske, 2003)
-- “Global perspectives: Innovative technology integration practices from around the world” (Kozma, 2003a)
-- “Reaching the most disadvantaged with ICT: What works?” (Kozma & Wagner, 2006)
+- "Links in the chain of doing: The ethics of introducing educational technology in developing countries" (Burniske, 2003)
+- "Global perspectives: Innovative technology integration practices from around the world" (Kozma, 2003a)
+- "Reaching the most disadvantaged with ICT: What works?" (Kozma & Wagner, 2006)
 
 Assignments:
 
@@ -333,6 +345,7 @@ Assignments:
 - Final reflection on learning and growth
 - **Literature Review paper due by Monday, May 9 by 6:00PM Central US time**
 
+___
 
 ## Relevant University Policies
 
@@ -356,7 +369,7 @@ The grading for this course is as follows:
 | B  | 84 – 86%  |    |          |    |          |   |           |
 | B- | 80 – 83%  |    |          |    |          |   |           |
 
-It is worth noting here that the structure of this course is more about your learning than it is about a grade.  You are each capable of “A” work, and it is my assumption everyone starts with an “A”.  It is ultimately up to you to prove me wrong.  
+It is worth noting here that the structure of this course is more about your learning than it is about a grade.  You are each capable of "A" work, and it is my assumption everyone starts with an "A".  It is ultimately up to you to prove me wrong.  
 
 You will be provided feedback to help guide you to more resources, areas where you can improve, and aspects you are doing well in.  This feedback will typically be in the form of text- or audio-formats.  I will only communicate what your grade is upon request.  
 
