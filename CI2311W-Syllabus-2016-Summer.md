@@ -163,10 +163,10 @@ Class details will be posted on our website as the course progresses. The follow
 | 4       | Information Ethics                                         | Mon, 6/27   |                                                            |
 | 5       | Digital Citizenship                                        | Thurs, 6/30 | Draft of Initial Exploration due for peer review           |
 | 6       | Ethics of online technologies                              | Tues, 7/5   | Peer reviews due *on Tues (b/c Mon is the Independence Day)* |
-| 7       | The Difference between "Data" and "Actionable Information" | Thurs, 7/7  | Initial project due                                        |
+| 7       | Data versus Actionable Information                         | Thurs, 7/7  | Initial project due                                        |
 | 8       | Democracy and the Internet                                 | Mon, 7/11   |                                                            |
 | 9       | Ethics & Power                                             | Thurs, 7/14 |                                                            |
-| 10      | The Great Media Debate                                     | Mon, 7/18   |                                                            |
+| 10      | Data Ethics                                                | Mon, 7/18   |                                                            |
 | 11      | Cultural Relativity                                        | Thurs, 7/21 | Draft of Continuing Exploration due for peer reviews       |
 | 12      | Digital Equity                                             | Mon, 7/25   | Peer reviews due                                           |
 | 13      | Ethics of Biotechnologies                                  | Thurs, 7/28 | Continuing Project due                                     |
@@ -253,7 +253,7 @@ Assignments:
 - Reading reflection
 - **Initial Exploration project peer reviews due**
 
-### Class #7 – The Difference between "Data" and "Actionable Information"
+### Class #7 – Data versus Actionable Information
 
 Readings:
 
@@ -287,15 +287,13 @@ Assignments:
 
 - Reading reflection
 
-### Class #10 – The Great Media Debate
+### Class #10 – Data Ethics
 
-Technology Integration in Education: Ethical Implications
+Ethics considerations in the age of 'big data'
 
 Readings:
 
-- "Sharing the sacred fire: Integrating educational technology without annihilating nature" (Burniske, 2005)
-- "Will media influence learning: Reframing the debate" (Kozma, 1994)
-- "Technology and classroom practices: An international study" (Kozma, 2003b)
+- Zwitter, A. (2014). [Big Data ethics](http://bds.sagepub.com/content/spbds/1/2/2053951714559253.full.pdf). Big Data & Society, 1(2). doi:10.1177/2053951714559253
 
 Assignments:
 
