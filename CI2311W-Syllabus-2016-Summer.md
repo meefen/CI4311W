@@ -162,15 +162,16 @@ Class details will be posted on our website as the course progresses. The follow
 | 3       | Basic theoretical foundations                              | Thurs, 6/23 |                                                            |
 | 4       | Information Ethics                                         | Mon, 6/27   |                                                            |
 | 5       | Digital Citizenship                                        | Thurs, 6/30 | Draft of Initial Exploration due for peer review           |
-| 6       | Ethics of online technologies                              | Tues, 7/5   | Peer reviews due *on Tues (b/c Mon is the Independence Day)* |
-| 7       | Data versus Actionable Information                         | Thurs, 7/7  | Initial project due                                        |
-| 8       | Democracy and the Internet                                 | Mon, 7/11   |                                                            |
-| 9       | Ethics & Power                                             | Thurs, 7/14 |                                                            |
-| 10      | Data Ethics                                                | Mon, 7/18   |                                                            |
-| 11      | Cultural Relativity                                        | Thurs, 7/21 | Draft of Continuing Exploration due for peer reviews       |
-| 12      | Digital Equity                                             | Mon, 7/25   | Peer reviews due                                           |
-| 13      | Ethics of Biotechnologies                                  | Thurs, 7/28 | Continuing Project due                                     |
-| 14      | Conclusions, reflections                                   | Mon, 8/1    |                                                            |
+|         | *No class -- Independence Day*                             | Mon, 7/4    |                                                            |
+| 6       | Ethics of online technologies                              | Thurs, 7/7  | Peer reviews due                                           |
+| 7       | Data versus Actionable Information                         | Mon, 7/11   | Initial project due                                        |
+| 8       | Democracy and the Internet                                 | Thurs, 7/14 |                                                            |
+| 9       | Ethics & Power                                             | Mon, 7/18   |                                                            |
+| 10      | Data Ethics                                                | Thurs, 7/21 | Draft of Continuing Exploration due for peer reviews       |
+| 11      | Cultural Relativity                                        | Mon, 7/25   | Peer reviews due                                           |
+| 12      | Digital Equity                                             | Thurs, 7/28 | Continuing Project due                                     |
+| 13      | Conclusions, reflections                                   | Mon, 8/1    |                                                            |
+
 
 **The due time for each class is 6:00PM Central US time. For example, all activities and assignments for Class #1 is due by Thursday, June 16, 6PM Central Time.**
 
@@ -234,6 +235,8 @@ Assignments:
 
 - Reading reflection
 - **Draft of Initial Exploration project for peer review due**
+
+### NO CLASS on Monday, July 4 -- Independence Day
 
 ### Class #6 – Ethics of online technologies
 
@@ -329,23 +332,7 @@ Assignments:
 - Reading reflection
 - **Continuing Project due**
 
-
-### Class #13 – Ethics of Biotechnologies
-
-Technology-Mediated Human Enhancement  
-Genetic Manipulations  
-Human Cloning  
-Stem Cells
-
-Readings:
-
-- Research one article that you find on the universal debate relating to the ethics of biotechnology (such as technology-mediated human enhancement, genetic manipulations, human cloning, harvest and use of stem cells, etc.).  Share with us what you find.
-
-Assignments:
-
-- Reading summary
-
-### Class #14 – Conclusions, reflections
+### Class #13 – Conclusions, reflections
 
 Course evaluations
 
