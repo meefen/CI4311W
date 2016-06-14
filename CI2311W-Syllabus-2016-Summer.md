@@ -98,54 +98,79 @@ Meanwhile, I encourage you consider our class as a learning community, in which 
 
 **Please consider Mondays and Thursdays as our official course "meeting days" just like you would if this were a Face to Face course. (We are "meeting" twice instead of once a week because it is a summer course.) As such, all of our class discussions/reflections will be due by 6:00PM EACH Monday/Thursday unless otherwise noted.**
 
-### 2. Student Projects
+### 2. Writing Projects
 
-Based on former student input and critically considering how best to facilitate deeper discussions of the readings and materials, the writing projects for this course are being significantly overhauled from times previous.  In the new model, you’ll be picking a topic at the beginning of the course that you’re passionate about, and you’ll be encouraged (but not strictly required) to pursue that topic in different contexts as we move through the course together.  Example topics will be provided, and you’re encouraged to come up with something on your own.
+This is a writing intensive course, so you will engage with writing projects related to technology & ethics. As an overall requirement, you are expected to **critically engage with course readings** when writing the topic(s) you choose. Example topics will be provided, and you’re encouraged to come up with something on your own.
 
-Additionally, there is a new peer review aspect to the course.  This is to facilitate deeper discussions between you and another student, and provide an opportunity to practice another variation of ethical behavior in an online environment.  A really nice video about being a Peer Reviewer can be found [here](http://www.youtube.com/watch?v=GlSCMx9-fGA), and I’d recommend watching it even if you’ve been a peer reviewer before.  You will be assigned a peer reviewer (or reviewers if necessary to ensure no one is left out) from our course roster.
+Additionally, there is a new **peer review** aspect to the course. This is to facilitate deeper discussions between you and another student, and provide an opportunity to practice another variation of ethical behavior in an online environment. A really nice video about being a Peer Reviewer can be found [here](http://www.youtube.com/watch?v=GlSCMx9-fGA), and I’d recommend watching it even if you’ve been a peer reviewer before. For each writing project, you will be assigned a peer reviewer from our course roster.
 
-Submissions for a paper-style project should include the document (as outlined below).  For a multimedia project with large files (>15MB), please include the links to the main part of the project, with script and supporting materials to be included directly.
+**General submission guidelines**: 
 
-#### 2.1. Initial Exploration of a Topic of Your Choice
-
-You will create a project on a technology topic that interests you and holds several ethical implications as it affects society today, and frame your initial exploration based on readings and discussions from the first five class meetings. Example topics picked by former students included hydrogen-powered cars, cyberbulling, surveillance, Ebola drugs, etc. You are welcome to draw upon your own personal experiences or information available on the Internet for background information, but please note you’ll need to reference at least one course reading too.  While it is not required, I hope you’ll consider this an opportunity to get out of your "comfort zone" and challenge yourself!
-
-1. You can elect to author an essay with the following requirements:
-  1. Length between 4-5 pages long and written **in APA format, double-spaced, 12-point font, with standard 1-inch margins** (the title, abstract & reference pages excluded). For your convenience, I recommend using the [Word template](http://www.siue.edu/~prose/classes/APAFormatTemplate.doc) or the [Google Doc template](https://drive.google.com/previewtemplate?id=1cWBJYL0BbVocbSmFDMz2_440Wp3fIYLZs50QHbu2UiY&mode=public) as your starting point.
-  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]\_Project1\_[course number]\_[section number].  For example, if I were submitting a paper, it might be ChenB_Project1_CI2311_001.  
-  3. Inclusion of a reference/works cited page—but these do not count in your 4-5 pages.  In-text citations and a formal reference list in APA format are an important part of your paper and an ethical requirement.
-  4. Graphics are encouraged to better convey your understanding.   
-2. Develop a multimedia project that better demonstrates your thinking about the topic at hand and/or adds to the viewer’s experience of your topic. However, this is a writing course, so keep that in mind as you consider the requirements:
-  1. These projects could take the form of a staged debate between two people, a video, original artwork, original music or others.
-  2. The project **must** be accompanied by a script, complete with citations, a reference list, and a reflection of your depth of understanding and thinking on the topic.
-  3. You may complete this project individually or as a group, but with a group you’ll need to accommodate the need for everyone to demonstrate their work.
-  4. You are encouraged to use graphics or mixed media – but be sure to cite the sources you draw from in appropriate APA style.
-
-**Regardless of format (paper or multimedia project), you will be required to:**
-
-1. Show how the peer review process was engaged, and how it informed the submitted project.
-2. Be sure to draw at least two references total from our first five course readings/discussions in meaningful ways.
+- All writing assignments in this course should follow the **APA Style**. For your convenience, I recommend using the [Word template](http://www.siue.edu/~prose/classes/APAFormatTemplate.doc) or the [Google Doc template](https://drive.google.com/previewtemplate?id=1cWBJYL0BbVocbSmFDMz2_440Wp3fIYLZs50QHbu2UiY&mode=public) as your starting point.
+- Submissions are requested as Word document (.doc or .docx) or PDF file types. Please ensure the file is saved as [yourlastname][firstinitial]\_ProjectN\_[course number]\_[section number].  For example, if I were submitting the first paper, it might be ChenB_Project1_CI2311_001.pdf or .docx.
+- Length: Essays should be 3-4 pages long (no longer) written in  the APA Style. Please include a title, abstract, and reference page---but these do not count in your 3-4 pages. In-text citations and a formal reference list in the APA format are an important part of your papers.
 
 
-#### 2.2. Continuing Project on a Topic of Your Choice
+#### 2.1. Initial Exploration: Critical Analysis of Technology & Ethics in Pop Culture
 
-This second project is designed to provide you an opportunity to continue engaging with your topic, although in a fresh context of readings and discussions from between classes 6 through 12. While you are not strictly required to stick to the same topic as the initial project, it is highly encouraged.  You are again welcomed to either write a paper or develop a multimedia project.  All of the prior requirements remain, including peer review as in the initial project, but with a few changes (in **bold**, below):
+Artifacts of pop culture (in this case, movies!) are fertile ground for an in-depth examination of various issues within technology &ethics. From George Lucas' first motion picture THX-1138 (released in 1971) to the more recent release of Disney’s Wall-E (2008), one could argue that science fiction isn’t about science at all; it is about people... and how they cope with concerns raised by technological advancement and the ethical choices they have to make.
 
-1. You can elect to author an essay with the following requirements:
-  1. Length between 4-5 pages long and written in **APA format, double-spaced, 12-point font, with standard 1-inch margins** (the title, abstract & reference pages excluded).  
-  2. Submissions are requested as Word document (.doc or .docx) or PDF file types – and please ensure the file is saved as [yourlastname][firstinitial]\_**Project2**\_[course number]\_[section number].  For example, if I were submitting a paper, it might be ChenB_Project2_CI2311_001.  
-  3. Inclusion of a reference/works cited page—but these do not count in your 4-5 pages.  In-text citations and a formal reference list in APA format are an important part of your paper and an ethical requirement.
-  4. Graphics are encouraged to better convey your understanding.   
+As a creative means to explore the ethics of emerging technologies, you will conduct a critical analysis of one movie/motion picture film that encompasses some form of technology and communicate your analysis in the form of a written essay.
+
+In your paper you will explore the ethical concerns that are raised by particular technologies depicted in the film of your choice and the potential implications for society.  Some examples of appropriate films for analysis are listed below; OR you may choose a movie on your own, as long as it meets the premise criteria outlined above. It is expected that each student will rent or borrow (from the library or a friend) a copy of the movie they choose in order to view it in its entirety to complete this assignment. Contact me if you are not sure if your movie works for this assignment.
+
+- The Island
+- Source Code
+- Metropolis
+- Hackers
+- A.I.
+- THX-1138
+- Sneakers
+- I Am Legend
+- Minority Report
+- I, Robot
+- GATTACA
+- Wall-E
+- Inception
+- District 9
+- Watchmen
+- The Avengers
+- Iron Man
+- Robocop
+- Prometheus
+- Man of Steel
+- Total Recall
+- Transformers
+- Limitless
+- Jumper
+- Avatar
+- Bicentennial Man
+- My Sister’s Keeper
+- Tron Legacy
+- Up in the Air
+- War Games
+- Looper
+- Total Recall
+- Prometheus
+			
+
+**[IMPORTANT]**: Throughout your paper, you will be expected to make connections between issues raised in the film and the basic ethical theories we have been learning about. You are expected to **draw at least two references** from our first five course readings/discussions in meaningful ways. For example, our reading -- “Ethical principles, reasoning and decision making” by Budinger & Budinger (2006) –- provides an overview of basic ethical theories and moral principles and could be referenced. You may have other references as well from our other readings, or ones you find on your own. You will also be expected to critically reflect on the potential concerns for society as you see them.
+
+
+#### 2.2. Continuing Exploration Project on a Topic of Your Choice
+
+This second project is designed to provide you an opportunity to continue engaging with your topic, although in a fresh context of readings and discussions from between classes 6 through 12. While you are not strictly required to stick to the same topic as the initial project, it is highly encouraged.  You are welcomed to either write a paper or develop a multimedia project.  All of the prior requirements remain, including peer review as in the initial project, but with a few changes (in **bold**, below):
+
+1. You can elect to author an essay, like what you did for the Initial Project.   
 2.	Develop a multimedia project that better demonstrates your thinking about the topic at hand and/or adds to the viewer’s experience of your topic. However, this is a writing course, so keep that in mind as you consider the requirements:
   1. These projects could take the form of a staged debate between two people, a video, original artwork, original music or others.
   2. The project **must** be accompanied by a script, complete with citations, a reference list, and a reflection of your depth of understanding and thinking on the topic.
-  3. You may complete this project individually or as a group, but with a group you’ll need to accommodate the need for everyone to demonstrate their understanding and knowledge.
-  4. You are encouraged to use graphics or mixed media – but be sure to cite the sources you draw from in appropriate APA style.
+  3. You are encouraged to use graphics or mixed media – but be sure to cite the sources you draw from in appropriate APA style.
 
 **Regardless of format, you will be required to:**
 
 1.	Show how the peer review process was engaged, and how it informed the submitted project
-2.	Be sure to draw at least two references total from our course readings/discussions **in sessions 6 through 11, and still do so in meaningful ways.  Note that this excludes the readings and discussions from the first 5 weeks.**
+2.	Be sure to draw at least two new references from our course readings/discussions **in sessions 6 through 11, and still do so in meaningful ways.  Note that this excludes the readings and discussions from the first 5 weeks.**
 
 ___
 
