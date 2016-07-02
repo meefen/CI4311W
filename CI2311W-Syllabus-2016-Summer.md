@@ -189,7 +189,7 @@ Class details will be posted on our website as the course progresses. The follow
 | 5       | Digital Citizenship                                        | Thurs, 6/30 | Draft of Initial Exploration due for peer review           |
 |         | *No class -- Independence Day*                             | Mon, 7/4    |                                                            |
 | 6       | Ethics of online technologies                              | Thurs, 7/7  | Peer reviews due                                           |
-| 7       | Data versus Actionable Information                         | Mon, 7/11   | Initial project due                                        |
+| 7       | Big Data ethics                					           | Mon, 7/11   | Initial project due                                        |
 | 8       | Democracy and the Internet                                 | Thurs, 7/14 |                                                            |
 | 9       | Ethics & Power                                             | Mon, 7/18   |                                                            |
 | 10      | Data Ethics                                                | Thurs, 7/21 | Draft of Continuing Exploration due for peer reviews       |
@@ -281,11 +281,11 @@ Assignments:
 - Reading reflection
 - **Initial Exploration project peer reviews due**
 
-### Class #7 – Data versus Actionable Information
+### Class #7 – Big Data ethics
 
 Readings:
 
-- "Data, Information, Knowledge, Wisdom" (Bellinger, Castro and Mills, 2004)
+- Zwitter, A. (2014). Big Data ethics. Big Data & Society, 1(2). doi:10.1177/2053951714559253
 
 Assignments:
 
