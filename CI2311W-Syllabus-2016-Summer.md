@@ -192,10 +192,10 @@ Class details will be posted on our website as the course progresses. The follow
 | 7       | Big Data ethics                					           | Mon, 7/11   | Initial project due                                        |
 | 8       | Democracy and the Internet                                 | Thurs, 7/14 |                                                            |
 | 9       | Ethics & Power                                             | Mon, 7/18   |                                                            |
-| 10      | Data Ethics                                                | Thurs, 7/21 | Draft of Continuing Exploration due for peer reviews       |
-| 11      | Cultural Relativity                                        | Mon, 7/25   | Peer reviews due                                           |
-| 12      | Digital Equity                                             | Thurs, 7/28 | Continuing Project due                                     |
-| 13      | Conclusions, reflections                                   | Mon, 8/1    |                                                            |
+| 10      | Data Ethics                                                | Thurs, 7/21 |                                                            |
+| 11      | Cultural Relativity                                        | Mon, 7/25   | Draft of Continuing Exploration due for peer reviews       |
+| 12      | Digital Equity                                             | Thurs, 7/28 | Peer reviews due                                           |
+| 13      | Conclusions, reflections                                   | Mon, 8/1    | Continuing Project due                                     |
 
 
 **The due time for each class is 6:00PM Central US time. For example, all activities and assignments for Class #1 is due by Thursday, June 16, 6PM Central Time.**
@@ -283,6 +283,8 @@ Assignments:
 
 ### Class #7 – Big Data ethics
 
+Ethics considerations in the age of 'big data'
+
 Readings:
 
 - Zwitter, A. (2014). Big Data ethics. Big Data & Society, 1(2). doi:10.1177/2053951714559253
@@ -315,18 +317,20 @@ Assignments:
 
 - Reading reflection
 
-### Class #10 – Data Ethics
+### Class #10 – The Great Media Debate
 
-Ethics considerations in the age of 'big data'
+Technology Integration in Education: Ethical Implications
 
 Readings:
 
-- Zwitter, A. (2014). [Big Data ethics](http://bds.sagepub.com/content/spbds/1/2/2053951714559253.full.pdf). Big Data & Society, 1(2). doi:10.1177/2053951714559253
+- "Sharing the sacred fire: Integrating educational technology without annihilating nature" (Burniske, 2005)
+- "Will media influence learning: Reframing the debate" (Kozma, 1994)
+- "Technology and classroom practices: An international study" (Kozma, 2003b)
 
 Assignments:
 
 - Reading reflection
-- **Draft of Continuing Exploration due for peer reviews**
+
 
 ### Class #11 – Cultural Relativity of Ethics & Technology
 
@@ -339,7 +343,8 @@ Readings:
 Assignments:
 
 - Reading reflection
-- **Continuing Exploration projects peer reviews due**
+- **Draft of Continuing Exploration due for peer reviews**
+
 
 ### Class #12 – Digital Equity
 
@@ -355,7 +360,8 @@ Readings:
 Assignments:
 
 - Reading reflection
-- **Continuing Project due**
+- **Continuing Exploration projects peer reviews due**
+
 
 ### Class #13 – Conclusions, reflections
 
@@ -363,6 +369,7 @@ Course evaluations
 
 Assignments:
 - Final reflection on learning and growth
+- **Continuing Project due**
 
 ___
 
